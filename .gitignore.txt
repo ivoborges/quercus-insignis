@@ -1,6 +1,0 @@
-rasters/
-vectors/
-occs/cacoma.csv
-precision.R
-clean.R
-
