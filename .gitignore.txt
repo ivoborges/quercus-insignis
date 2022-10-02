@@ -1,0 +1,4 @@
+rasters/
+vectors/
+occs/cacoma.csv
+
