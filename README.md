@@ -1,2 +1,2 @@
-# quercus-insignis
+# Quercus insignis
 
